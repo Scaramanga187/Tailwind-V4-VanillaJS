@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+@theme {
+  --bg-galaxyimage: url("./src/assets/images/backroundTest.webp");
+}
